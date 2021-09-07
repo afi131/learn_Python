@@ -1,1 +1,3 @@
-  1_ i made this file on my personal pc
+1_ i made this file on my personal pc
+
+  2_ created a new branch newrg and modified this file on RG laptop
